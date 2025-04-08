@@ -16,7 +16,7 @@ This project demonstrates how to **send SMS messages** using an **Arduino UNO R4
 
 * Easy-to-build DIY project with minimal components
 
-For the Complete project guide, check our official website \- 
+For the Complete project guide, check our official website \- [https://circuitdigest.com/microcontroller-projects/how-to-send-sms-with-arduino-via-internet](https://circuitdigest.com/microcontroller-projects/how-to-send-sms-with-arduino-via-internet)
 
 ---
 
@@ -138,7 +138,8 @@ This project is licensed under the **GPL V3 LICENSE**.
 
 ### **📧 Contact**
 
-For any queries or suggestions, reach out via:  
+For any queries or suggestions, reach out via:
+
  🌐 **Official Website:** [Circuit Digest](https://circuitdigest.com)
 
 🚀 **Happy coding and SMS sending\!** 📱
